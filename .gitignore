@@ -3,6 +3,7 @@
 
 # Add data folder to git-ignore since data files are too big
 data/
+.ipynb_checkpoints
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
