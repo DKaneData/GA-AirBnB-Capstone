@@ -1,8 +1,12 @@
 # GA-AirBnB-Capstone
 by David Kanevsky
+
 david@davidkanevsky.com
+
 General Assembly, Data Science Immersive
+
 June 2024
+
 
 ### Problem Statement
 Using natural language processing, the goal is to identify poorly rated AirBnB listings in the Washington, D.C. area and the specific terms that people use to describe poorly rated listings, with the hope that identifying the words people use to describe a poorly reviewed listing can help hosts understand how to improve the guest experience and improve their rating.
@@ -65,7 +69,7 @@ The best performing version of this model had a recall score of 0.254 and an f1 
 
 #### Data Dictionary
 
-Because of GitHub's file size limitations, I am not able to upload the data files I worked with. The original data files come from [Insider Air BNB](https://insideairbnb.com/get-the-data/)) for the Washington, D.C. area and are dated as of March 23, 2024.
+Because of GitHub's file size limitations, I am not able to upload the data files I worked with. The original data files come from [Insider AirBnB](https://insideairbnb.com/get-the-data/)) for the Washington, D.C. area and are dated as of March 23, 2024.
 
 I used listings.csv.gz to get the detailed listings for all the properties and reviews.csv.gz to get the detailed reviews for all the properties in the Washington, D.C. area. I created 2 data sets myself based on those original data sets.
 
